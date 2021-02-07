@@ -17,3 +17,5 @@ The above two contradictory statements exist due to solving a merge conflict bet
 Testing longer messages when commiting
 
 Testing another time
+
+Learning how to edit in vim, crazy
