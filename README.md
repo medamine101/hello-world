@@ -12,3 +12,4 @@ This file is inside the main branch
 
 This document is inside of branch test-branch!
 
+The above two contradictory statements exist due to solving a merge conflict between two branches
